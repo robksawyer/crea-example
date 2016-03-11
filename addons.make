@@ -1,0 +1,7 @@
+ofxCv
+ofxFlowToolsCREA
+ofxKinect
+ofxOpenCv
+ofxSecondWindow
+ofxUICREA
+ofxXmlSettings
