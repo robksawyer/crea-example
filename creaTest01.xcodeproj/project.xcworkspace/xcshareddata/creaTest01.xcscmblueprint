@@ -1,22 +1,28 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A5DE69DE12E1BB9299A877610133E3C39A7728DA",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A5DE69DE12E1BB9299A877610133E3C39A7728DA+++21E7CA0",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "FE87873B02C5E6719395DDAC8C0C0C585EF1FA8F" : 0,
-    "7E804D925461714118DB355C65BC964B41D94376" : 0,
-    "A5DE69DE12E1BB9299A877610133E3C39A7728DA" : 0,
-    "37526DA425E5430474A14FBFA1BC4525160B5FC1" : 0,
-    "2A03CE0CF301C466938025B767254CAAC3CB8DB0" : 0
+    "7E804D925461714118DB355C65BC964B41D94376+++875C54D" : 0,
+    "7E804D925461714118DB355C65BC964B41D94376+++040CB11" : 0,
+    "FE87873B02C5E6719395DDAC8C0C0C585EF1FA8F+++CD38FBF" : 0,
+    "A5DE69DE12E1BB9299A877610133E3C39A7728DA+++21E7CA0" : 0,
+    "37526DA425E5430474A14FBFA1BC4525160B5FC1+++4CA2B65" : 0,
+    "2A03CE0CF301C466938025B767254CAAC3CB8DB0+++EBF59E4" : 0,
+    "2A03CE0CF301C466938025B767254CAAC3CB8DB0+++33BFC51" : 0,
+    "7E804D925461714118DB355C65BC964B41D94376+++E861B2D" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E40E4454-5F62-49DE-97D6-7904F1D0DC22",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "FE87873B02C5E6719395DDAC8C0C0C585EF1FA8F" : "..\/..\/addons\/ofxSecondWindow",
-    "7E804D925461714118DB355C65BC964B41D94376" : "..\/..\/addons\/ofxUI",
-    "A5DE69DE12E1BB9299A877610133E3C39A7728DA" : "creaTest01\/",
-    "37526DA425E5430474A14FBFA1BC4525160B5FC1" : "..\/..\/addons\/ofxCv",
-    "2A03CE0CF301C466938025B767254CAAC3CB8DB0" : "..\/..\/addons\/ofxFlowToolsCREA"
+    "7E804D925461714118DB355C65BC964B41D94376+++875C54D" : "..\/..\/addons\/ofxUI",
+    "7E804D925461714118DB355C65BC964B41D94376+++040CB11" : "..\/..\/addons\/ofxUI",
+    "FE87873B02C5E6719395DDAC8C0C0C585EF1FA8F+++CD38FBF" : "..\/..\/addons\/ofxSecondWindow",
+    "A5DE69DE12E1BB9299A877610133E3C39A7728DA+++21E7CA0" : "creaTest01\/",
+    "37526DA425E5430474A14FBFA1BC4525160B5FC1+++4CA2B65" : "..\/..\/addons\/ofxCv",
+    "2A03CE0CF301C466938025B767254CAAC3CB8DB0+++EBF59E4" : "..\/..\/addons\/ofxFlowToolsCREA",
+    "2A03CE0CF301C466938025B767254CAAC3CB8DB0+++33BFC51" : "..\/..\/addons\/ofxFlowToolsCREA",
+    "7E804D925461714118DB355C65BC964B41D94376+++E861B2D" : "..\/..\/addons\/ofxUICREA"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "creaTest01",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -25,37 +31,42 @@
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/moostrik\/ofxFlowTools",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2A03CE0CF301C466938025B767254CAAC3CB8DB0"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2A03CE0CF301C466938025B767254CAAC3CB8DB0+++33BFC51"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/robksawyer\/ofxFlowTools",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2A03CE0CF301C466938025B767254CAAC3CB8DB0"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2A03CE0CF301C466938025B767254CAAC3CB8DB0+++EBF59E4"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kylemcdonald\/ofxCv.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "37526DA425E5430474A14FBFA1BC4525160B5FC1"
-    },
-    {
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/robksawyer\/ofxUI",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7E804D925461714118DB355C65BC964B41D94376"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "37526DA425E5430474A14FBFA1BC4525160B5FC1+++4CA2B65"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rezaali\/ofxUI",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7E804D925461714118DB355C65BC964B41D94376"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7E804D925461714118DB355C65BC964B41D94376+++040CB11"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/robksawyer\/ofxUI",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7E804D925461714118DB355C65BC964B41D94376+++875C54D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/robksawyer\/ofxUI",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7E804D925461714118DB355C65BC964B41D94376+++E861B2D"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/robksawyer\/crea-example.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A5DE69DE12E1BB9299A877610133E3C39A7728DA"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A5DE69DE12E1BB9299A877610133E3C39A7728DA+++21E7CA0"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/genekogan\/ofxSecondWindow",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FE87873B02C5E6719395DDAC8C0C0C585EF1FA8F"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FE87873B02C5E6719395DDAC8C0C0C585EF1FA8F+++CD38FBF"
     }
   ]
 }

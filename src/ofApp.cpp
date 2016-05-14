@@ -381,7 +381,7 @@ void ofApp::update(){
     copy(irOriginal, irImage);
     copy(depthOriginal, depthImage);
     copy(depthOriginal, grayThreshNear);
-    copy(depthOriginal, grayThreshFar);
+    copy(depthOriginal, grayThreshFar);	
 
     // Filter and then threshold the IR image
     for(int i = 0; i < irNumErodes; i++){

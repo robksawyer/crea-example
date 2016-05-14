@@ -3,12 +3,12 @@
     <Widget>
         <Kind>4</Kind>
         <Name>Red</Name>
-        <Value>92.727272034</Value>
+        <Value>0.000000000</Value>
     </Widget>
     <Widget>
         <Kind>4</Kind>
         <Name>Green</Name>
-        <Value>102.210746765</Value>
+        <Value>0.000000000</Value>
     </Widget>
     <Widget>
         <Kind>4</Kind>
@@ -33,7 +33,7 @@
     <Widget>
         <Kind>42</Kind>
         <Name>FBO Fade Amount</Name>
-        <Value>80</Value>
+        <Value>40</Value>
     </Widget>
     <Widget>
         <Kind>20</Kind>
@@ -97,13 +97,13 @@
     <Widget>
         <Kind>4</Kind>
         <Name>IR Threshold</Name>
-        <Value>65.330581665</Value>
+        <Value>70.000000000</Value>
     </Widget>
     <Widget>
         <Kind>6</Kind>
         <Name>Markers Size</Name>
         <HighValue>80.000007629</HighValue>
-        <LowValue>19.214876175</LowValue>
+        <LowValue>5.000000477</LowValue>
     </Widget>
     <Widget>
         <Kind>6</Kind>
@@ -120,7 +120,7 @@
     <Widget>
         <Kind>42</Kind>
         <Name>IR Number of Erosions</Name>
-        <Value>2</Value>
+        <Value>1</Value>
     </Widget>
     <Widget>
         <Kind>42</Kind>
@@ -184,12 +184,12 @@
     <Widget>
         <Kind>2</Kind>
         <Name>Show patterns inside sequence</Name>
-        <Value>0</Value>
+        <Value>1</Value>
     </Widget>
     <Widget>
         <Kind>2</Kind>
         <Name>Show patterns</Name>
-        <Value>0</Value>
+        <Value>1</Value>
     </Widget>
 </GUI>
 <GUI></GUI>
@@ -237,7 +237,7 @@
     <Widget>
         <Kind>2</Kind>
         <Name>Show Optical Flow</Name>
-        <Value>1</Value>
+        <Value>0</Value>
     </Widget>
     <Widget>
         <Kind>2</Kind>
@@ -411,27 +411,27 @@
     <Widget>
         <Kind>2</Kind>
         <Name>Show Fluid Velocities</Name>
-        <Value>0</Value>
+        <Value>1</Value>
     </Widget>
     <Widget>
         <Kind>2</Kind>
         <Name>Show Fluid Velocities Scalar</Name>
-        <Value>0</Value>
+        <Value>1</Value>
     </Widget>
     <Widget>
         <Kind>2</Kind>
         <Name>Show Pressure</Name>
-        <Value>0</Value>
+        <Value>1</Value>
     </Widget>
     <Widget>
         <Kind>2</Kind>
         <Name>Show Temperature</Name>
-        <Value>0</Value>
+        <Value>1</Value>
     </Widget>
     <Widget>
         <Kind>2</Kind>
         <Name>Show Vorticity Confinement</Name>
-        <Value>0</Value>
+        <Value>1</Value>
     </Widget>
     <Widget>
         <Kind>20</Kind>
@@ -473,7 +473,7 @@
     <Widget>
         <Kind>4</Kind>
         <Name>Red</Name>
-        <Value>0.280000001</Value>
+        <Value>10.000000000</Value>
     </Widget>
     <Widget>
         <Kind>4</Kind>
@@ -550,12 +550,12 @@
     <Widget>
         <Kind>20</Kind>
         <Name>Activate Particle Flow</Name>
-        <Value>1</Value>
+        <Value>0</Value>
     </Widget>
     <Widget>
         <Kind>4</Kind>
         <Name>Birth Chance</Name>
-        <Value>0.161157027</Value>
+        <Value>0.100000001</Value>
     </Widget>
     <Widget>
         <Kind>4</Kind>
@@ -597,7 +597,7 @@
     <Widget>
         <Kind>20</Kind>
         <Name>Activate Contour</Name>
-        <Value>1</Value>
+        <Value>0</Value>
     </Widget>
     <Widget>
         <Kind>4</Kind>
@@ -622,7 +622,7 @@
     <Widget>
         <Kind>2</Kind>
         <Name>Bounding Rectangle</Name>
-        <Value>1</Value>
+        <Value>0</Value>
     </Widget>
     <Widget>
         <Kind>2</Kind>
@@ -881,7 +881,7 @@
     <Widget>
         <Kind>4</Kind>
         <Name>Interaction Force</Name>
-        <Value>40.000000000</Value>
+        <Value>20.000000000</Value>
     </Widget>
     <Widget>
         <Kind>2</Kind>
@@ -923,7 +923,7 @@
     <Widget>
         <Kind>20</Kind>
         <Name>Activate Particles</Name>
-        <Value>1</Value>
+        <Value>0</Value>
     </Widget>
     <Widget>
         <Kind>4</Kind>
@@ -1040,7 +1040,7 @@
     <Widget>
         <Kind>4</Kind>
         <Name>Interaction Force</Name>
-        <Value>40.000000000</Value>
+        <Value>20.000000000</Value>
     </Widget>
     <Widget>
         <Kind>2</Kind>
@@ -1244,7 +1244,7 @@
     <Widget>
         <Kind>4</Kind>
         <Name>Interaction Force</Name>
-        <Value>40.000000000</Value>
+        <Value>20.000000000</Value>
     </Widget>
     <Widget>
         <Kind>2</Kind>
@@ -1336,7 +1336,7 @@
     <Widget>
         <Kind>4</Kind>
         <Name>Particles/sec</Name>
-        <Value>5.000000000</Value>
+        <Value>8.000000000</Value>
     </Widget>
     <Widget>
         <Kind>42</Kind>
@@ -1356,7 +1356,7 @@
     <Widget>
         <Kind>4</Kind>
         <Name>Interaction Force</Name>
-        <Value>40.000000000</Value>
+        <Value>20.000000000</Value>
     </Widget>
     <Widget>
         <Kind>2</Kind>
@@ -1433,7 +1433,7 @@
     <Widget>
         <Kind>4</Kind>
         <Name>Lifetime</Name>
-        <Value>1.299999952</Value>
+        <Value>1.100000024</Value>
     </Widget>
     <Widget>
         <Kind>4</Kind>
@@ -1443,7 +1443,7 @@
     <Widget>
         <Kind>4</Kind>
         <Name>Radius</Name>
-        <Value>0.649999976</Value>
+        <Value>0.600000024</Value>
     </Widget>
     <Widget>
         <Kind>4</Kind>
